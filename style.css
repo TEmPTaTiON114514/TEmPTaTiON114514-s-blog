@@ -1,6 +1,4 @@
 body {
-    background-image:url("https://github.com/JohnDoe/MyProject/blob/main/images/bg.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
+    background-image:url('bg.png');
+	background-color:#cccccc;
 }
