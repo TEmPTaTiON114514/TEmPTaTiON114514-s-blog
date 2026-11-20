@@ -1,5 +1,5 @@
 body {
-    background-image:url("https://github.com/TEmPTaTiON114514/TEmPTaTiON114514-s-blog/blob/dc895f40abe7c7dda908af5495707f46e4ed864f/images/bg.png");
+    background-image:url('./images/bg.png');
 	background-size:cover;
 	background-color:#cccccc;
 }
